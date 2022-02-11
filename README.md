@@ -1,4 +1,4 @@
-# Data Minded Academy Capstone
+# Data Minded Academy Capstone VV
 Welcome to the Capstone project! During the next 1.5 days you will apply everything you've learned during the past days 
 in an integrated exercise. You will:
 1) Read, transform and load weather data from S3 to Snowflake through PySpark
